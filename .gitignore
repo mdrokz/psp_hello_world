@@ -42,6 +42,11 @@
 *.idb
 *.pdb
 
+# PSP
+*.SFO
+*.PBP
+
+
 # Kernel Module Compile Results
 *.mod*
 *.cmd
