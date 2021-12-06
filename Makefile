@@ -1,5 +1,5 @@
 TARGET = hello_world
-OBJS   = main.o callback.o
+OBJS   = main.o common.o
 
 INCDIR   =
 CFLAGS   = -G0 -Wall -O2
